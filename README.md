@@ -19,7 +19,7 @@ $ git clone https://github.com/ghwatson/faststyle
 
 Download stylize_jetsoncam.py from this repository and save in home/faststyle
 
-# Run using onboard camara Jetson TX2!
+# Run using onboard camera Jetson TX2!
 
 $ python stylize_jetsoncam.py
 

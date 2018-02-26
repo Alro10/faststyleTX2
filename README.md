@@ -23,4 +23,6 @@ Download stylize_jetsoncam.py from this repository and save in home/faststyle
 
 $ python stylize_jetsoncam.py
 
+$ python stylize_jetsoncamtwo.py   # Show original frame and stylizing frame
+
  
